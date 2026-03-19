@@ -4,16 +4,16 @@ This repository contains the notebook [`code/GenAISWE_Assignment_2_Sam_Bennett.i
 
 ## Prerequisites
 
-- Python 3.10 and Jupyter Notebook installed
+- Python 3.12.9 and Jupyter Notebook installed
 
 ## Setup
 
 Run the following steps from the repository root:
 
-1. Create and activate a Python 3.10 virtual environment:
+1. Create and activate a Python 3.12 virtual environment:
 
 ```bash
-python3.10 -m venv .venv
+python3.12 -m venv .venv
 source .venv/bin/activate
 ```
 
